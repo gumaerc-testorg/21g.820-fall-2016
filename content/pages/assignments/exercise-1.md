@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 475970bf-7a88-f2fe-4f05-686c40d72782
 title: Exercise 1
 uid: 425e0b00-b152-445c-9953-dd51200a70c5

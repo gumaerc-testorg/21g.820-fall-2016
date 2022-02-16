@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 5368ca5e-a6f0-c27b-020c-324eefae6081
 title: Evaluation and Grades
 uid: a4215a5f-1723-eca5-60cf-afdf688c01e5
