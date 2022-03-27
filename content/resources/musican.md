@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 475970bf-7a88-f2fe-4f05-686c40d72782
 resourcetype: Image
 title: Paulo Cesar Pinheiro
 uid: faa56826-6c96-ab19-cbd7-68a446f23e6a

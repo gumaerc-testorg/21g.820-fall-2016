@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 4e0a6348-1151-28f9-5705-68996569de0f
 resourcetype: Document
 title: Como elaborar um texto Argumentativo
 uid: 8aadca38-7d34-28e0-680f-5b1a3e0585ae
