@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This exercise asked students questions about YouTube videos of Brazilian
+  music. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

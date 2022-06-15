@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to external resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -32,7 +33,7 @@ Informaçöes Gerais
 
 [Dicionário bilingue Português-Inglês](http://www.wordreference.com/)
 
-[Dicas para as apresentações orais (PDF)]({{< baseurl >}}/resources/mit_21g_820f16_oralpres) (Courtesy of Diane Hendrix. Used with permission.)
+{{% resource_link 8cb32271-c47c-67c0-dce7-47b7bb9f7f33 "Dicas para as apresentações orais (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)
 
 [Tá Falado](https://www.coerll.utexas.edu/brazilpod/tafalado/): Guia de pronúncia
 
@@ -68,7 +69,7 @@ Para Escrever
 {{< tdopen >}}
 
 
-[Símbolos para a correção das redações (PDF)]({{< baseurl >}}/resources/mit_21g_820f16_symbols)
+{{% resource_link 9876b6fc-36bd-c0af-0e12-d939c0232bdb "Símbolos para a correção das redações (PDF)" %}}
 
 [Conjugações verbais](http://www.conjuga-me.net/)
 

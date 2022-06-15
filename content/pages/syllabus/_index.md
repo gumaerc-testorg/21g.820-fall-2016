@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, prerequisites,
+  meeting times, references, movies, and a statement on academic integrity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

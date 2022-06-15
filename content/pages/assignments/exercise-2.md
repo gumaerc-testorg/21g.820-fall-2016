@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This exercise asked students to watch YouTube videos and answer questions. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

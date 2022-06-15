@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This exercise asked students questions about different Brazilian songs. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
