@@ -10,6 +10,7 @@ image_metadata:
   image-alt: 'An older man dressed holds an award on stage. '
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Paulo Cesar Pinheiro
 uid: faa56826-6c96-ab19-cbd7-68a446f23e6a
 ---
 Photograph of Paulo Cesar Pinheiro holding an award on stage.
-
