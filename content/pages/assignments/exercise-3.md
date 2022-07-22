@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'This exercise asked students questions about YouTube videos of Brazilian
+  music. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 475970bf-7a88-f2fe-4f05-686c40d72782
 title: Exercise 3
 uid: 43f85d39-01d5-cfb0-f74b-f655f66461fc
