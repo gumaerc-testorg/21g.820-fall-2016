@@ -2,6 +2,7 @@
 content_type: resource
 description: Symbols for correction of essays, in Portuguese.
 file: /courses/21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016/9876b6fc36bdc0af0e12d939c0232bdb_MIT_21G_820F16_symbols.pdf
+file_size: 33176
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
