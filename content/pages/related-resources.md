@@ -1,52 +1,33 @@
 ---
 content_type: page
 description: This section provides links to external resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 4e0a6348-1151-28f9-5705-68996569de0f
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 TOPIC
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 RESOURCES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Informaçöes Gerais
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Domínio Público—Biblioteca Digital](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp): Literatura em Português e Música Brasileira
 
-[Dicionário de Português (monolingue)](https://dicionariodoaurelio.com/): Dicionário Aurelio
+[Dicionário de Português (monolingue)](https://www.dicio.com.br/aurelio-2/): Dicionário Aurelio
 
 [Dicionário bilingue Português-Inglês](http://www.wordreference.com/)
 
-{{% resource_link 8cb32271-c47c-67c0-dce7-47b7bb9f7f33 "Dicas para as apresentações orais (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)
+{{% resource_link "8cb32271-c47c-67c0-dce7-47b7bb9f7f33" "Dicas para as apresentações orais (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)
 
 [Tá Falado](https://www.coerll.utexas.edu/brazilpod/tafalado/): Guia de pronúncia
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Para Sua Pesquisa
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Zuim](http://www.zuim.org/): Programa de rádio na internet que pode ser baixado em seu computador
 
@@ -58,48 +39,25 @@ Para Sua Pesquisa
 
 [Dicionário Cravo Albin da Música Popular Brasileira](http://dicionariompb.com.br/): Doze mil verbetes sobre músicos, compositores e intérpretes do Brasil
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Para Escrever
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{% resource_link 9876b6fc-36bd-c0af-0e12-d939c0232bdb "Símbolos para a correção das redações (PDF)" %}}
-
-[Conjugações verbais](http://www.conjuga-me.net/)
+{{% resource_link "9876b6fc-36bd-c0af-0e12-d939c0232bdb" "Símbolos para a correção das redações (PDF)" %}}
 
 [Dicionário de Sinônimos](https://www.sinonimos.com.br/): Enriqueça o seu vocabulário
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Música Popular Brasileira
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-[Reflexões sobre a Música Popular Brasileira](https://mci.radio.br/2017/03/14/reflexoes-sobre-a-musica-e-o-brasil/): Nildo Viana
+[Reflexões sobre a Música Popular Brasileira](https://www.scribd.com/document/22151496/Reflexoes-sobre-a-Musica-Popular-Brasileira-Nildo-Viana): Nildo Viana
 
 [Alguns cantores famosos da MPB](https://www.mpb.com.br/)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Choro ou Chorinho
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Brasileirinho: grandes encontros do choro](https://www.youtube.com/watch?v=Lpl_nOnr0ic&list=PLDDGbmXaaJjEoZD_tPC1wfHR6hoh0bY2f)
 
@@ -109,89 +67,49 @@ Choro ou Chorinho
 
 [Zizi Possi](https://www.youtube.com/watch?v=Lkq6h_t21c8): Lamentos—Chorinho "moderno" de Pixinguinha e Vinicius de Moraes
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Samba
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [A história do samba](http://revistaepoca.globo.com/Revista/Epoca/0,,EDR67538-5856,00.html)  
 
 [Breve História do Samba](https://www.youtube.com/watch?v=kWEhKsOgdEE): Vídeo sobre o início do samba no Brasil
 
-[As batidas do samba](https://www.youtube.com/watch?v=ZBP0nU5x3Ps)_:_ Trecho do documentário de Bebeto Arantes sobre a formação das primeiras escolas de samba do Rio de Janeiro
+[As batidas do samba](https://www.youtube.com/watch?v=ZBP0nU5x3Ps)*:* Trecho do documentário de Bebeto Arantes sobre a formação das primeiras escolas de samba do Rio de Janeiro
 
 [Noel, o poeta da Vila](https://www.youtube.com/watch?v=VmgCCcLUkoQ): Filme completo sobre Noel Rosa
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 A Era do rádio (1920-1930)
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Os cantores da Era do Rádio](https://www.youtube.com/watch?v=l6xZ5L9Oo-A): Documentário do Arquivo Record—Parte 1
 
 [Carmen Miranda: Beneath the Tutti-Frutti Hat](https://www.youtube.com/watch?v=MbTeIh1WGoQ): Documentário da BBC sobre Carmen Miranda
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 O sertão brasileiro e o início do Baiäo
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Documentário sobre Lampião, o Rei do Cangaço](https://www.youtube.com/watch?v=f49LW4TZcHE)
 
 [Gonzaga: de pai para filho](https://www.youtube.com/watch?v=OmgX4vsURA8): Filme sobre o rei do Baião, Gonzagão e seu filho, Gonzaguinha
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ascensão da Bossa Nova
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [A música segundo Tom Jobim](https://vimeo.com/58212770): Filme completo sobre Tom Jobim
 
 [Coisa mais linda—Histórias e casos da Bossa Nova](https://www.youtube.com/watch?v=qq6TsJkCDSc): Documentário sobre a Bossa Nova
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Os Festivais de Música Popular Brasileira
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 [Uma noite em 67](https://www.youtube.com/watch?v=FOsXaaW4Pkk): Documentário sobre o festival televisivo de música popular brasileira de 21 de outubro de 1967
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Música e repressão
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [MPB nos tempos da ditadura](https://www.youtube.com/watch?v=P4BNAZmok6o): Documentário exibido pela TV Cultura
 
@@ -199,16 +117,9 @@ Música e repressão
 
 [Simonal—ninguém sabe o duro que dei](https://www.youtube.com/watch?v=NjAPVjQbKG0): Filme sobre a vida e o fim da carreira do cantor Wilson Simonal
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 O Jovem Guarda
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Arquivo Record fala de Jovem guarda](https://www.youtube.com/watch?v=VeAh7EBnO-I): Programa comemorativo da TV Record  
 
@@ -218,33 +129,19 @@ O Jovem Guarda
 
 [Renato e seus Blue Caps](https://www.youtube.com/watch?v=pRHNeAIJOq0): Meu primeiro amor
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 O Tropicalismo
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-[Tropicália: a contracultura na Música Popular Brasileira](http://www.ufrgs.br/alcar/encontros-nacionais-1/9o-encontro-2013/artigos/gt-historia-da-midia-sonora/tropicalia-a-contracultura-na-musica-popular-brasileira) 
+[Tropicália: a contracultura na Música Popular Brasileira](http://www.ufrgs.br/alcar/encontros-nacionais-1/9o-encontro-2013/artigos/gt-historia-da-midia-sonora/tropicalia-a-contracultura-na-musica-popular-brasileira)
 
 ['Funk carioca e sertanejo universitário são a nova Tropicália', diz Caetano Veloso Entrevista a Caetano Veloso pela](http://www.bbc.com/portuguese/noticias/2016/05/160407_caetano_mv) BBC Brasil
 
 [Loki Brasil](https://www.youtube.com/watch?v=izGLQUGZZMs) (2008): Documentário sobre o tropicalismo—Parte 1
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 BRock: o rock nacional e os temais sociais
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Titãs—a vida até parece uma festa](https://www.youtube.com/watch?v=nlcjLWxHvwo): Filme sobre o grupo Titãs
 
@@ -254,16 +151,9 @@ BRock: o rock nacional e os temais sociais
 
 [Cássia Eller](https://www.youtube.com/watch?v=vmFg1VOKxh0): Filme sobre a vida da cantora Cássia Eller
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Tempos atuais: o neossertanejo e outra novidades
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Rap no Brasil](https://www.youtube.com/watch?v=Oi0MHWemSE0&feature=related): Entrevista com Milton Santos
 
@@ -271,16 +161,9 @@ Tempos atuais: o neossertanejo e outra novidades
 
 [Dois filhos de Francisco](https://www.youtube.com/watch?v=9R7GYs-AJfU): Filme completo sobre a vida da dupla sertaneja de Zezé de Camargo e Luciano
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Alguns clássicos modernos e OUTROS
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Chico Buarque](http://www.chicobuarque.com.br/): Um dos maiores compositores brasileiros! Website oficial onde vocês poderão encontrar informação sobre toda a sua discografia. Vale a pena explorar!
 
@@ -296,9 +179,4 @@ Alguns clássicos modernos e OUTROS
 
 [Os Doces Bárbaros](https://www.youtube.com/watch?v=z-IwkP5AOi4)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
