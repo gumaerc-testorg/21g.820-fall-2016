@@ -2,7 +2,7 @@
 content_type: resource
 description: Slide presentation on how to write an argumentative text. Written in
   Portuguese.
-file: /ol-ocw-studio-app/courses/21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016/8aadca387d3428e0680f5b1a3e0585ae_MIT_21G_820F16_argument.pdf
+file: /courses/21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016/8aadca387d3428e0680f5b1a3e0585ae_MIT_21G_820F16_argument.pdf
 file_size: 125171
 file_type: application/pdf
 learning_resource_types: []

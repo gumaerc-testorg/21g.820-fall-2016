@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of Paulo Cesar Pinheiro holding an award on stage.
-file: /ol-ocw-studio-app/courses/21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016/faa568266c96ab19cbd768a446f23e6a_musican.jpg
+file: /courses/21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016/faa568266c96ab19cbd768a446f23e6a_musican.jpg
 file_size: 113493
 file_type: image/jpeg
 image_metadata:
