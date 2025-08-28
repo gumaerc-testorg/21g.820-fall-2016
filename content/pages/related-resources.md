@@ -133,8 +133,6 @@ O Jovem Guarda
 O Tropicalismo
 {{< tdclose >}}{{< tdopen >}}
 
-[Tropicália: a contracultura na Música Popular Brasileira](http://www.ufrgs.br/alcar/encontros-nacionais-1/9o-encontro-2013/artigos/gt-historia-da-midia-sonora/tropicalia-a-contracultura-na-musica-popular-brasileira)
-
 ['Funk carioca e sertanejo universitário são a nova Tropicália', diz Caetano Veloso Entrevista a Caetano Veloso pela](http://www.bbc.com/portuguese/noticias/2016/05/160407_caetano_mv) BBC Brasil
 
 [Loki Brasil](https://www.youtube.com/watch?v=izGLQUGZZMs) (2008): Documentário sobre o tropicalismo—Parte 1
