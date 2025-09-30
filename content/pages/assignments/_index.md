@@ -20,4 +20,4 @@ Here are a few examples of exercises students completed during the course.
 {{< resource faa56826-6c96-ab19-cbd7-68a446f23e6a >}}  
 
 Paulo César Pinheiro, a prolific Brazilian composer, has written over 2,000 songs.  
-(Image by [26° Prêmio da Música Brasileira](https://pt.wikipedia.org/wiki/Paulo_C%C3%A9sar_Pinheiro#/media/File:26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_(18082039053).jpg) on Wikipedia. CC: BY.)
+(Image by {{% resource_link "4ccae736-b5e9-4f7c-b75b-f06058f17d45" "26° Prêmio da Música Brasileira" %}} on Wikipedia. CC: BY.)
