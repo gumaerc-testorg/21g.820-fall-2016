@@ -67,7 +67,7 @@ Meu coração
 
 A Volta da Asa Branca (1950)  
 Luiz Gonzaga e Zé Dantas  
-Watch on [YouTube](https://www.youtube.com/watch?v=whKGCQiD7iY).
+Watch on {{% resource_link "1560d6b8-ba1a-4e20-b85d-a4bde085d6e6" "YouTube" %}}.
 
 Já faz três noites  
 Que pro norte relampeia  

@@ -18,9 +18,9 @@ Em que estilo musical você classificaria as canções abaixo? Justifique.
 *   Tico-tico no fubá (1931)  
     Zequinha de Abreu  
     Só instrumental  
-    Watch on [YouTube.](https://www.youtube.com/watch?v=qo8ctCcC0hU)
+    Watch on {{% resource_link "ba8a9ae0-9fd4-4dec-a8ef-2645e0945b93" "YouTube." %}}
     
-*   [ALLAH-LÁ-Ô (Haroldo Lobo-Nássara, 1940)](https://www.letras.mus.br/marchinhas-de-carnaval/497936/)
+*   {{% resource_link "8c70492f-fac6-4ede-872f-b2cf30296125" "ALLAH-LÁ-Ô (Haroldo Lobo-Nássara, 1940)" %}}
     
     ### Lyrics
     
@@ -41,7 +41,7 @@ Em que estilo musical você classificaria as canções abaixo? Justifique.
 *   Analise a marchinha de Ary Barroso abaixo e comente como a sociedade da época é representada na música.  
     Dá Nela  
     Ary Barroso (1930)  
-    Watch on [YouTube](https://www.youtube.com/watch?v=MXcSsGV7DF8).
+    Watch on {{% resource_link "84e9d8c0-eba0-4404-97d9-8346fb6b6f19" "YouTube" %}}.
     
 
 {{< tableopen >}}
@@ -90,7 +90,7 @@ Dá nela! Dá nela!
     
     Conversa de botequim (1935)  
     Noel Rosa  
-    Watch on [YouTube.](https://www.youtube.com/watch?v=in9W6vHyI5k)
+    Watch on {{% resource_link "8da07b1b-c87b-4092-95d5-c6ff9bb71217" "YouTube." %}}
     
 
 ### Lyrics

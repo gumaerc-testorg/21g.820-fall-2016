@@ -17,7 +17,7 @@ uid: b12efa7f-5548-e849-cc95-cb9455342fb4
 
 Candeeiro Encantado (1997)  
 Lenine / Paulo César Pinheiro  
-Watch on [YouTube](https://www.youtube.com/watch?v=MvlFyQQ3k6I).
+Watch on {{% resource_link "0c434015-c987-45e1-a485-0ada91aaea70" "YouTube" %}}.
 
 ### Lyrics
 

@@ -41,15 +41,15 @@ Cambraia-Naves, Santuza. _Da Bossa Nova à Tropicália_. Jorge Zahar, 2001. ISB
 Movies
 ------
 
- _[Sound of Rio: Brasileirinho](http://www.imdb.com/title/tt0456321/)_. DVD. Directed by Mika Kaurismäki. Milan Records, 2005.
+ _{{% resource_link "7abb80a1-3ecb-4968-9484-ae82c6047e0d" "Sound of Rio: Brasileirinho" %}}_. DVD. Directed by Mika Kaurismäki. Milan Records, 2005.
 
  Jobim, Antonio Carlos, and Vinicius de Morales. _Masters of Bossa Nova_. DVD. Video Artists International, 2009. 
 
-  [_Tropicália_](http://www.imdb.com/title/tt1497880/). DVD. Directed by Marcelo Machado. Mr. Bongo Films, 2012. 
+  {{% resource_link "6ef054b6-8643-43ca-95b0-b3a42b9e55ed" "_Tropicália_" %}}. DVD. Directed by Marcelo Machado. Mr. Bongo Films, 2012. 
 
-EmbassyofBrazilDC. _[A Night in '67 (Uma Noite em 67)](https://www.youtube.com/watch?v=F8cZXm5xgU4)._ YouTube. Directed by Renato Terra and Ricardo Calil. 2010. 
+EmbassyofBrazilDC. _{{% resource_link "b9607fe1-e8a8-499e-bc07-275dcb691ab5" "A Night in '67 (Uma Noite em 67)" %}}._ YouTube. Directed by Renato Terra and Ricardo Calil. 2010. 
 
- [_Two Sons of Fransico (2 Filhos de Fransico)_](http://www.imdb.com/title/tt0439547/?ref_=nv_sr_1). DVD. Directed by Breno Silveira. Colmbia Tristar Filmes do Brasil, 2005. 
+ {{% resource_link "a0ca64cc-5c09-460c-8a6e-c143856e95af" "_Two Sons of Fransico (2 Filhos de Fransico)_" %}}. DVD. Directed by Breno Silveira. Colmbia Tristar Filmes do Brasil, 2005. 
 
 Academic Integrity
 ------------------
